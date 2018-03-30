@@ -1,2 +1,2 @@
 # kotlin-gameoflife
-Game of life solution with Kotlin
+A solution for the game of life problem with Kotlin. See https://bitstorm.org/gameoflife/ for a description of the problem.
